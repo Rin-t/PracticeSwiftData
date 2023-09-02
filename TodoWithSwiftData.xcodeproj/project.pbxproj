@@ -14,6 +14,7 @@
 		240C2C422AA2E626007F04D4 /* TodoWithSwiftDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240C2C412AA2E626007F04D4 /* TodoWithSwiftDataTests.swift */; };
 		240C2C4C2AA2E626007F04D4 /* TodoWithSwiftDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240C2C4B2AA2E626007F04D4 /* TodoWithSwiftDataUITests.swift */; };
 		240C2C4E2AA2E626007F04D4 /* TodoWithSwiftDataUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240C2C4D2AA2E626007F04D4 /* TodoWithSwiftDataUITestsLaunchTests.swift */; };
+		240C2C5B2AA2E636007F04D4 /* Todo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240C2C5A2AA2E636007F04D4 /* Todo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		240C2C472AA2E626007F04D4 /* TodoWithSwiftDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoWithSwiftDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		240C2C4B2AA2E626007F04D4 /* TodoWithSwiftDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoWithSwiftDataUITests.swift; sourceTree = "<group>"; };
 		240C2C4D2AA2E626007F04D4 /* TodoWithSwiftDataUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoWithSwiftDataUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		240C2C5A2AA2E636007F04D4 /* Todo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				240C2C302AA2E623007F04D4 /* TodoWithSwiftDataApp.swift */,
 				240C2C322AA2E623007F04D4 /* ContentView.swift */,
+				240C2C5A2AA2E636007F04D4 /* Todo.swift */,
 				240C2C342AA2E625007F04D4 /* Assets.xcassets */,
 				240C2C362AA2E625007F04D4 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				240C2C332AA2E623007F04D4 /* ContentView.swift in Sources */,
+				240C2C5B2AA2E636007F04D4 /* Todo.swift in Sources */,
 				240C2C312AA2E623007F04D4 /* TodoWithSwiftDataApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
